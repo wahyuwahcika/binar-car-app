@@ -1,0 +1,51 @@
+Kelompok 3
+Rico Samuel
+Diana Kusuma
+Gusti Putu Wahyu Wahcika
+
+Admin:
+Rico Samuel
+1. nav bar
+2. side bar
+3. hit api chart dan table
+
+Diana
+1. Login page
+2. add form card
+3. edit form card
+
+Comsumer:
+Gusti Putu Wahyu Wahcika
+1. componen bankpayment
+2. buttonlogout
+3. buttonregister
+4. confirm pembayaran
+5. count day dan menit
+6  Page bankconfirm
+7  page detail mobil
+8. page etiket
+9. page payment
+10 routing
+11 hit api
+12 autentition
+13. helper
+14. invoice
+15 tiket
+
+Rico:
+1. signin
+2. signup
+
+Diana:
+
+1.Ourservices
+2.whyus
+3 Banner
+4 footer
+5 filter
+6 Hasil Pencarian
+7 BlankArea
+8 NotFoundPage
+repo utama https://github.com/wahyuwahcika/binar-kelompok-3
+
+sebelumnya di kerjakan di repo https://github.com/Rickstrifes/GOLD-CHALLENGE-Porting-react sebagai jejak digital karena ada conlik yang gak bisa di selesaikan di git
